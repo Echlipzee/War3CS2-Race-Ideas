@@ -1,0 +1,92 @@
+Dante - Devil May Cry
+Passive Effects:
+Pick a weapon from each of 3 menus on spawn, one primary, one secondary, one knife. You are restricted to those weapons for the round. Spawn with 110 HP and double jump. It requires double the normal XP to level this race. You cannot spend level bank levels on this race.
+Item Restrictions: 
+Cannot buy Boots of Zephyr or Sock of Feather
+
+Stylish Combos - (Special) - 5 Levels
+Unlock weapons for your spawn menus. If you do not have the levels for a weapon on a menu, you get the base weapon.
+Primary Menu
+Level 0: Cerberus// MP7
+Level 3: Coyote-A// Sawed-off
+Level 5: Kalina Ann// AWP
+
+Secondary Menu
+Level 0: Ebony and Ivory// Dualies
+Level 3: Blue Rose// Deagle
+
+Melee Menu
+Level 5: Agni// Knife
+Level 5: Rudra// Knife
+
+Arsenal - (Ability1) - 5 Levels
+Activate to upgrade the weapon you have in your hand when you press Ability1. Upgrades are below. 20/19/18/17/16 second cooldown.
+-Cerberus: Has perfect accuracy and no recoil, but fires in 3 round bursts for the next 10 seconds.
+-Coyote-A: Your next shot uses all the ammo in your current mag but causes knockback and deals the damage dealt in a huge cone.
+-Kalina Ann: Your next shot deals 60 damage to all enemies in a 200 unit radius of where it impacts.
+-Ebony and Ivory: 100% increased fire rate for 10 seconds.
+-Blue Rose: Deal double damage but spend 2 rounds per shot for 10 seconds.
+-Agni: Your next hit deals 40 damage to all enemies in a 200 unit radius of the enemy you hit.
+-Rudra: Your next hit impales the enemy high into the air and deals 5 damage per second for 5 seconds.
+
+ Devilish Stance - (Ability2) - 5 Levels
+Pick an effect from the menu to be active. Picking a new effect removes the old effect. 1.5 second cooldown.
+
+Stances Menu:
+-Trickster: Your double jump height is increased. Increases height with levels. Maxed out this should allow you to jump from CT spawn to cat on dust2.
+-Swordmaster: You deal 6/7/8/9/10 extra damage on hit with the knife.
+-Gunslinger: You deal 8/16/24/32/40% extra damage on hits with guns.
+-Royal Guard: Your max HP is increased by 10/15/20/25/30. You are not healed with this effect.
+
+Devil Trigger - (Ultimate) - 5 Levels - Requires Level 8
+For the next 10 seconds, you gain 20% increased movement speed and 10% increased damage on hit. You heal for 20/25/30/35/40 HP. 35 second cooldown.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dweller - Monster - 0/36
+Passive Effects
+Race should be invisible on radar when 100% invis similar to Antlion. Return visibility if below 100%
+Weapon Restrictions:
+Knife only
+ 
+ Dweller’s Aptitude - Passive - 0/6
+Invisibility 0-100%, in increments of 10%. Gain 10% every 10/8/6/4/2/1 second(s) while stationary. Lose 10% every second while mobile.
+100% invis if completely stationary, 0% invis if moving.
+
+ Dweller’s Claws - Passive - 0/6
+Primary Fire deals 2/4/6/8/10/12% increased damage
+
+ Dweller's Well <Ability1> - Ward - 0/6
+Set ward (250-300u) dealing  2/4/6/8/10/12 damage to enemies inside over 10secs
+
+ Dweller’s Mark<Ability2> - 0/6
+Set TP spot with 40/35/30/20/10 second CD
+
+ Dweller’s Return<Ultimate> - 0/6
+Return to TP spot with 90/83/75/60/45 second CD. Dweller does NOT lose invis upon return, unless mobile.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Phasestalker - Monster - 0/24
+Passive effects:
+Race works around a meter, or phase, and is metered  0-100. 4 phase lost per bullet shot.
+Gun Restrictions:
+M4A1-S and Knife
+
+ Radiant Focus - Aura - 0/5 
+Personal highlight enemies at 300/450/550/650/750 unit radius based on current phase. (Higher Phase = Higher radius)
+
+ Back Attack - Attack - 0/5
+Deal 20/40/60/80/100% increased damage with knife using secondary fire. Damage based on current phase.
+
+  Phasegain - Passive - 0/4
+Gain 2/3/4/5 phase passively every 1 second. On kills get +10 phase back. Automatically gain 1 phase/sec w/ 0 skill points
+
+ Phasestalk - Passive - 0/5
+Gain 35/45/55/65/75% invisibility based on current phase
+
+ Phaseburst - Ultimate - 0/5 
+Set to 100 phase, 65% low grav and 40% speed for 2/4/6/8/10 seconds. CD of 40.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
