@@ -1,143 +1,22 @@
-Alexstrasza - WoW
+Gul'dan - WoW/Orc
 Weapon Restrictions: None.
-Race Limit: 1 per team.
-
-the Dragon Queen - (Passive)
-Gain 50/75/100/125 HP/A.
-
-Aspect of Life - (Aura)
-Allies within a 300u radius take 5/10/15/20% less damage.
-
-Cleansing Flame - (Attack)
-Burn enemies for 2 damage over 1/2/3/4s. Heal allies for 2 over 1/2/3/4s.
-
-Draconic Form - (Ability1)
-Take into draconic form, enabling flight. CD of 10/8/6/4s.
-
-the Life-Giver - (Ability2)
-Sacrifice 25HP, allies in a 300u radius heal for 1/2/3/4 every 2 seconds for 20s. CD of 30s.
-
-the Life-Binder - (Ultimate)
-Sacrifice 50HP and stun yourself for 12/10/8/6/4s, at end of stun resurrect allies within 700u radius. CD of 120s.
-
-----------------------------------------------------------------------------------------
-
-Nozdormu - WoW
-Weapon Restrictions: None.
-Race Limit: 1 per team.
-
-Dragon of the Ages - (Passive)
-Gain 25/50/75/100 HP/A.
-
-Aspect of Time - (Aura)
-Allies within a 300u radius gain 5/10/15/20% movement speed. Enemies slow the same.
-
-Temporal Stasis - (Attack)
-15% chance to stun enemies for .2/.4/.6/.8s.
-
-Draconic Form - (Ability1)
-Take into draconic form, enabling flight. CD of 10/8/6/4s.
-
-Temporal Travel - (Ability2)
-Teleport to target, range of 750/1,000/1,250/1,500u. CD of 30s.
-
-the Curse of Time - (Ultimate)
-Sacrifice 50HP and reverse damage taken by allies within 1/2/3/4/5s. Radius of 400u. CD of 60s.
-
-----------------------------------------------------------------------------------------
-
-Ysera - WoW
-Weapon Restrictions: None.
-Race Limit: 1 per team.
-
-Emerald Queen - (Passive)
-Gain 25/50/75/100 HP/A.
-
-Aspect of Dreams - (Aura)
-You and allies regenerate 1/2/3/4 HP/A every 10s.
-
-Emerald Breath - (Attack)
-15% chance to sleep enemies for .2/.4/.6/.8s.
-
-Draconic Form - (Ability1)
-Take into draconic form, enabling flight. CD of 10/8/6/4s.
-
-Ysera's Gift- (Ability2)
-Sacrifice 25HP, target ally gains 4/6/8/10 HP/s over 3s. Range 1,000. CD of 30s.
-
-Dream Manipulation - (Ultimate)
-Sleep EVERYONE within a 700u radius for .5/1/1.5/2s. During this time allies regenerate 10HP/s. Enemies have "nightmares" and are damaged for 10HP/s. CD of 60s.
-
-----------------------------------------------------------------------------------------
-Malygos - WoW
-Weapon Restrictions: None.
-Race Limit: 1 per team.
-
-Magic Incarnate - (Passive)
-Gain 25/50/75/100 HP/A.
-
-Aspect of Magic - (Aura)
-Allies within a 300u radius gain 5/10/15/20% magic damage resistance. Enemies lose the same.
-
-Arcane Missiles - (Attack)
-Bullets are magic and deal an extra 15% magic damage. 
-
-Draconic Form - (Ability1)
-Take into draconic form, enabling flight. CD of 10/8/6/4s.
-
-Vortex - (Ability2)
-Ward: Drop a Vortex, 300u radius, dealing 4/s and slowing enemies by 10% while inside. Duration of 4/6/8/10s. CD of 30s.
-
-Arcane Storm - (Ultimate)
-Unleash a powerful arcane storm, enemies within 700u take 30dmg and are bashed for 2s. CD of 60s.
-
-----------------------------------------------------------------------------------------
-
-Neltharion - WoW
-Weapon Restrictions: None.
-Race Limit: 1 per team.
-
-the Earth-Warder - (Passive)
-Gain 25/50/75/100 HP/A.
-
-Aspect of the Ebon - (Aura)
-Shield yourself, and allies within 300u, in darkness reducing magic damage by 4/6/8/10%
-
-Calamitous Strike - (Attack)
-Strike target dealing an additional 4/6/8/10% damage. 15% chance to impale.
-
-Draconic Form - (Ability1)
-Take into draconic form, enabling flight. CD of 10/8/6/4s.
-
-Earthen Grasp - (Ability2)
-Bash all enemies for 4 seconds and deal 20 damage. CD of 30s.
-
-Echoing Fissure - (Ultimate)
-Shatter the ground bashing enemies for 1/2/3/4s and dealing 20dmg. Create lava pools (wards) in various places burning enemies that walk through them for 2 over 1/2/3/4s. CD of 60s.
-
-----------------------------------------------------------------------------------------
-
-Gul'dan - WoW
-Weapon Restrictions: None.
-Race Limit:
 
 Corruption - (Attack)
 DoT target for 1 over 1/2/3/4/5/6. seconds. This effect stacks 5 times. Reset timer on hit.
 
 Well of Souls - (Ability1)
-300u Ward: Slow movement by 10% for 1/2/3/4/5/6 seconds and dealing 2dps. Upon leaving radius, apply Soul Corrosion. CD of 30 seconds.
+Ward: Slow movement by 10% for 1/2/3/4/5/6 seconds and dealing 2dps. Upon leaving radius, apply Soul Corrosion.
 
-Soul Corrosion - (Passive/Aura)
+Soul Corrosion - (Passive)
 Every 3 seconds, deal 1/1/2/3/4/5 damage over 15 seconds. This effect stacks 3 times.
 
 Empowered Eye of Gul'dan - (Ability2)
 Stun yourself for 10 seconds. Upon end, summon a "duplicate" with 50HP/50A. CD of 120/105/90/75/60 seconds.
 
 Black Harvest - (Ultimate)
-Deal 10/12/14/16/18/20 damage to ALL players within 1000 units. CD of 120 seconds.
+Deal 10/12/14/16/18/20 damage to ALL players within 1000 units. CD of 120 seconds
 
 ----------------------------------------------------------------------------------------
-
 Cairne Bloodhoof - WoW/Tauren
 Weapon Restrictions: None.
 
@@ -157,10 +36,8 @@ Bladestorm - (Ability1)
 Inflict 4d/s to all enemies within 150u radius for 8 seconds. 
 
 War Stomp - (Ultimate)
-For all enemies within 350u radius, increase time between attacks by 30%, slow movement by 2
-
-----------------------------------------------------------------------------------------
-
+For all enemies within 350u radius, increase time between attacks by 30%, slow movement by 20% and stun for .5/1/2/3/4 seconds. 
+------------------------------------------------------------------------------------------
 Arthas Menethil - WoW/ Human
 Weapon Restrictions:
 
@@ -183,6 +60,122 @@ Holy Strike - (Ability2)
 Consecrates your weapon in Holy Light (magic damage) for 2/4/6/8/10 seconds.
 
 Annihilate - (Ultimate)
-Leap in direction of aim, up to 800u, stunning all enemies within 300u for 1/2/3/4/5 seconds
+Leap in direction of aim, up to 800u, stunning all enemies within 300u for 1/2/3/4/5 seconds. During this time gain 5/10/15/20/25% increased KNIFE damage. 
+
+------------------------------------------------------------------------------------------
+
+Alexstrasza - WoW
+Weapon Restrictions: None.
+Race Limit: 1 per team.
+Item Restriction: Ring of Regen
+
+the Dragon Queen - (Passive)
+Gain 15/30/45/60/75 HP/A.
+
+Aspect of Life - (Aura)
+Allies within a 300u radius take 3/5/10/15/20% less damage. (Does NOT apply to you)
+
+Cleansing Flame - (Attack)
+Burn enemies over 1/2/3/4/5s. Heal allies over 1/2/3/4/5s.
+
+Draconic Form - (Ability1)
+Take into draconic form, enabling flight. CD of 10/8/6/4/2s. Gain 25% size while in this form.
+
+the Life-Giver - (Ability2)
+Sacrifice 25HP, allies in a 300u radius heal for 1/2/3/4/5 every 2 seconds for 20s. CD of 30s. (Does NOT apply to you)
+
+the Life-Binder - (Ultimate)
+Sacrifice 50HP and stun yourself for 12/10/8/6/4s, at end of stun resurrect allies within 700u radius. CD of 60s.
+----------------------------------------------------------------------------------------
+Nozdormu - WoW
+Weapon Restrictions: None.
+Race Limit: 1 per team.
+Item Restriction: Ring of Regen
+
+Dragon of the Ages - (Passive)
+Gain 10/20/30/40/50 HP/A.
+
+Aspect of Time - (Aura)
+Allies within a 300u radius gain 3/5/10/15/20% movement speed. Enemies slow the same.
+
+Temporal Stasis - (Attack)
+15% chance to stun enemies for .1/.2/.4/.6/.8s.
+
+Draconic Form - (Ability1)
+Take into draconic form, enabling flight. CD of 10/8/6/4/2s. Gain 25% size while in this form.
+
+Temporal Travel - (Ability2)
+Teleport to target, range of 500/750/1,000/1,250/1,500u. CD of 30s. (Similar to DT ability)
+
+the Curse of Time - (Ultimate)
+Sacrifice 50HP and reverse damage taken by allies within 1/2/3/4/5s. Radius of 400u. CD of 60s.
+----------------------------------------------------------------------------------------
+Ysera - WoW
+Weapon Restrictions: None.
+Race Limit: 1 per team.
+Item Restriction: Ring of Regen
+
+Emerald Queen - (Passive)
+Gain 10/20/30/40/50 HP/A.
+
+Aspect of Dreams - (Aura)
+You AND allies regenerate 2/4/6/8/10 HP/A every 10s.
+
+Emerald Breath - (Attack)
+15% chance to sleep enemies for .2/.4/.6/.8/1s. AoE of 200u on hit enemy.
+
+Draconic Form - (Ability1)
+Take into draconic form, enabling flight. CD of 10/8/6/4/2s. Gain 25% size while in this form.
+
+Ysera's Gift- (Ability2)
+Sacrifice 25HP, target ally gains 2/4/6/8/10 HP/s over 3s. Range 1,000. CD of 30s.
+
+Dream Manipulation - (Ultimate)
+Sleep EVERYONE within a 700u radius for .5/1/1.5/2/2.5s. During this time allies regenerate 10HP/s. Enemies have "nightmares" and are damaged for 5 every .5s. CD of 60s.
+----------------------------------------------------------------------------------------
+Malygos - WoW
+Weapon Restrictions: None.
+Race Limit: 1 per team.
+Item Restriction: Ring of Regen
+
+Magic Incarnate - (Passive)
+Gain 5/10/15/20/25 HP/A.
+
+Aspect of Magic - (Aura)
+Allies within a 300u radius gain 3/5/10/15/20% magic damage resistance. Enemies lose the same.
+
+Arcane Missiles - (Attack)
+Bullets are magic and deal an extra 1/2/3/4/5% magic damage. 
+
+Draconic Form - (Ability1)
+Take into draconic form, enabling flight. CD of 10/8/6/4/2s. Gain 25% size while in this form.
+
+Vortex - (Ability2)
+Ward: Drop a Vortex, 300u radius, dealing 4/s and slowing enemies by 10% while inside. Duration of 2/4/6/8/10s. CD of 30s.
+
+Arcane Storm - (Ultimate)
+Unleash a powerful arcane storm, enemies within 700u take 15dmg and are bashed for 1.5s. CD of 60s. 
 
 ----------------------------------------------------------------------------------------
+Neltharion - WoW
+Weapon Restrictions: None.
+Race Limit: 1 per team.
+Item Restriction: Ring of Regen
+
+the Earth-Warder - (Passive)
+Gain 10/20/30/40/50 HP/A.
+
+Aspect of the Ebon - (Aura)
+Shield yourself, and allies within 300u, in darkness reducing magic damage by 20/22/24/26/30%
+
+Calamitous Strike - (Attack)
+Strike target dealing an additional 10/14/16/18/20% damage. 15% chance to impale.
+
+Draconic Form - (Ability1)
+Take into draconic form, enabling flight. CD of 10/8/6/4/2s. Gain 25% size while in this form.
+
+Earthen Grasp - (Ability2)
+Bash all enemies for 4 seconds and deal 20 damage. CD of 30s. Radius of 200u.
+
+Echoing Fissure - (Ultimate)
+Shatter the ground around you (500u) bashing enemies for .5/1/1.5/2/2.5s and dealing 20dmg. Create lava pools (2-3 wards, 150u. Range of 500u) in various places burning enemies that walk through them for 1/2/3/4/5s. CD of 60s.
