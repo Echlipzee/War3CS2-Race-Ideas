@@ -170,16 +170,16 @@ Extra: Wall grab (bash) yourself to walls for 1s. Must jump directly at wall.
 Limited Camoflauge - (Passive)
 Gain 5/10/15/20/25% invisibility.
 
+Nightcrawler's Teleport - (Passive)
+**Must be airborne**
+Pressing space bar again will launch you forward, 200u, becoming 100% invisible. Lose all weapons while airborne. Reduce fall damage by 50%.
+Set visibility to 100% and regain weapons upon landing. CD of 18/16/14/12/10s.
+
 Prehensile Tail - (Attack)
 3/6/9/12/15% chance to impale your enemies.
 
 Spatial Awareness - (Ability1)
 Reverse your X and Y axis velocity. CD of 16/14/12/10/8s.
-
-Nightcrawler's Teleport - (Ultimate)
-**Must be airborne**
-Launch foward, 200u, becoming 100% invisible. Lose all weapons while airborne. Reduce fall damage by 50%.
-Set visibility to 100% and regain weapons upon landing. CD of 18/16/14/12/10s.
 
 --------------------------------------------------------------------------------------------
 
