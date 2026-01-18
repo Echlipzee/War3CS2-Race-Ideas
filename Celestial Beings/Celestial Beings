@@ -1,0 +1,98 @@
+Seraphim - Celestial Beings
+Weapon Restriction:
+Item Restriction:
+Race Limit: 1 per team.
+
+Fourfold Reverence - (Passive)
+Gain 5/10/15/20/25 HP/A.
+Gain 5/10/15/20/25% Magic Resistance.
+Gain 15/30/45/60/75% Skill Immunity.
+Gain 15/30/45/60/75% Spell Immunity.
+
+Unbearable Radiance - (Victim)
+Whenever damaged, 3/6/9/12/15% chance to blind enemy for .5 seconds.
+
+Purifying Strike - (Attack)
+Deal 10/20/30/40/50% extra damage to summons/respawns.
+
+Radiant Dominion - (Aura)
+Grant allies, within 200u, 5/10/15/20/25% extra damage.
+
+Consecration - (Ability1)
+Heal allies, damage enemies for 3/s.
+Ward: Radius 300u. Duration 2/4/6/8/10s. CD of 30s.
+
+Wings of the Ascendant - (Ability2)
+Toggle Flight. CD of 20/18/15/13/10s.
+
+Choir of Judgement - (Ultimate)
+Call down divine wrath from the heavens.
+Channel. Target: AoE_Self. Damage: 10/s. Radius: 600u. Duration: 2/4/6/8/10s. CD of 60s.
+Extra: Press again to cancel early.
+
+-------------------------------------------------------------------------------------------
+
+Cherubim - Celestial Beings
+Weapon Restriction:
+Item Restriction:
+Race Limit: 1 per team.
+
+Warded Form - (Passive)
+Reduce all incoming damage by 5/10/15/20/25%.
+
+Sanctuary of Insight - (Aura)
+Allies gain 5/10/15/20/25% magic resistance.
+Enemies reduce movement speed by 5/10/15/20/25%.
+
+Righteous Rend - (Attack)
+DoT target for 1/s for 1/2/3/4/5s. Stack 3 times.
+
+Scroll of Revelation - (Ability1)
+Highlight enemies with 30% or more invisibility for 1/2/3/4/5s. CD of 30s.
+
+Celestial Barrier - (Ability2)
+Raise a divine shield, reducing damage by 10/20/30/40/50% for everyone on team inside.
+Ward: 200u. Duration: 5s. CD of 30s.
+
+Judgement of the Thrones - (Ultimate)
+Channel divine authority to the battlefield.
+Slow enemies by 5/10/15/20/25%. Reduce damage by 2/4/6/8/10% for team. Deal damage to enemies.
+Channel. Target: AoE_Self. Damage: 2/s. Radius: 600u. Duration: 2/4/6/8/10s. CD of 60s.
+Extra: Press again to cancel early.
+
+-------------------------------------------------------------------------------------------
+
+Archangel - Celestial Beings
+Weapon Restriction:
+Item Restriction:
+Race Limit: 1 per team.
+
+Wings of Ascension - (Passive)
+Gain 5/10/15/20/25% movement speed.
+Gain 3/6/9/12/15% attack speed.
+
+Holy Fury - (Passive)
+Increase damage by 2/4/6/8/10% based on number of nearby enemies.
+
+Radiant Strike - (Attack)
+Every 3rd consecutive strike, deal 5 damage in a 300u radius of target.
+
+Retributive Light - (Victim)
+When you take significant damage (death), blind enemy for .5s, heal 20HP and teleport back to spawn.
+CD of 30/25/20/15/10s.
+
+Aura of Command - (Aura)
+Allies gain 9/12/15/18/20% extra damage.
+Enemies lose 3/6/9/12/15% damage dealt.
+Radius: 200u.
+
+Sword of Judgement - (Ability1)
+Deal 20 damage to target.
+Range: 600u, cone. CD of 45/40/35/30/25s.
+
+Divine Flight - (Ability2)
+Teleport to target, range of 300/400/500/600/700u. CD of 30s.
+
+Heaven's Wrath - (Ultimate)
+Call down divine judgement.
+Target: AoE_Self. Damage: 30. Radius: 500u. CD of 60s.
