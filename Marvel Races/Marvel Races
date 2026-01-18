@@ -206,3 +206,30 @@ Place a shield that absorbs all damage through. Duration 10s. CD of 30s.
 
 Meteor M - (Ultimate)
 Launch a Meteor full of metals at target, dealing 10/20/30/40/50 damage. Range 1,000u. Radius 300u. CD of 60s.
+
+--------------------------------------------------------------------------------------------
+
+Graviton - Marvel
+Weapon Restrictions: .
+Race Limit: 1 per team.
+
+Event Horizon - (Passive)
+Gain 5/10/15/20/25% damage reduction.
+Extra: At max, you are immune to forced movement. (Impale, Pulls, etc.)
+
+Gravitational Presence - (Aura)
+Enemies within 200u are slowed by 3/6/9/12/15%.
+
+Pressure Point - (Attack)
+Deal 3/6/9/12/15% extra damage. Slow target by 10/14/16/18/20% for 1s.
+Extra: 20% chance.
+
+Localized Collapse - (Ability1)
+Target an Area, instantly pull enemies within 200u to the center. (World Eater blackhole)
+Range: 700u. Duration 2s. CD of 30/26/22/18/15s.
+Extra: Deal 2 per enemy pulled.
+
+Universal Mandate - (Ultimate)
+Manipulate gravity around you. Everyone, including you, inside gains/loses 10/20/30/40/50% gravity.
+Target: AoE_Self. Radius: 400u. Duration: 10s. CD of 30s.
+Extra: 50% chance to gain/lose.
