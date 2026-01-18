@@ -26,7 +26,7 @@ Gain an AWP with 100% extra damage for 3/4/5/6/7 seconds. CD of 60s.
 ---------------------------------------------------------------------------------------------------
 
 Deadpool - Marvel
-Weapon Restrictions: Must have Deagle.
+Weapon Restrictions: None, must have Deagle.
 Race Limit: 1 per team.
 
 Superhuman Acrobat - (Passive)
@@ -45,8 +45,16 @@ Deal an additional 5/10/15/20/25% damage on headshots.
 Skill Issue - (Ability1)
 While active, enemies that attack you instead take 10/20/30/40/50% weapon damage. Duration 10s. CD 30s.
 
-Maximum Flair - (Ultimate)
-Taunt all enemies within 600u. Enemies deal an additional 10/15/20/25/30% weapon damage, however your chance to evade is doubled. Duration 10s. CD 45s.
+Maximum Flair - (Ability2)
+Taunt all enemies within 600u. Enemies deal an additional 10/15/20/25/30% weapon damage to YOU, however your chance to evade is doubled. Duration 10s. CD 45s.
+
+Game Over... Maybe. - (Ultimate)
+Summon a massive meteor onto the map. It deals no damage and is just an annoyance.
+		or
+6/7/8/9/10% change to summon a massive meteor onto the map. It slays everyone.
+CD of 30s.
+*At start play sound queue*
+“Fun fact: dinosaurs didn’t see this coming. You might.”
 
 ---------------------------------------------------------------------------------------------------
 
@@ -124,3 +132,77 @@ Inhuman Strength - (Attack)
 10/20/30/40/50% chance on hit to deal 50% extra damage.
 
 ---------------------------------------------------------------------------------------------------
+
+Spiderman - Marvel
+Weapon Restrictions:
+Race Limit: 1 per team.
+
+Spidey Senses - (Passive)
+Sense enemies within 400u every 3/2.5/2/1.5/1s.
+5/10/15/20/25% chance to evade.
+ 
+Agility - (Passive)
+Gain 15/20/25/30/35% movement speed.
+Gain 5/10/15/20/25% low-grav.
+Gain longjump.
+ 
+Web Shooters - (Attack)
+3/6/9/12/15% chance to bash enemy and blind enemy for .5s.
+
+Wall-Grab - (Ability1)
+Bash yourself to wall.
+Channel. Duration: 3/6/9/12/15s. CD of 1s.
+Extra: Press again to cancel early.
+
+Spectacular Spin - (Ultimate)
+Bash all enemies.
+Target: AoE_Self. Radius: 100/200/300/400/500u. Duration: 1/1.5/2/2.5/3s.
+
+---------------------------------------------------------------------------------------------------
+
+Nightcrawler - Marvel
+Weapon Restrictions:
+Race Limit: 1 per team.
+
+Circus Acrobatic - (Passive)
+Gain 4/8/12/16/20% movement speed.
+Gain 5/10/15/20/25% high-jump (vertical, not longjump).
+Extra: Wall grab (bash) yourself to walls for 1s. Must jump directly at wall.
+
+Limited Camoflauge - (Passive)
+Gain 5/10/15/20/25% invisibility.
+
+Prehensile Tail - (Attack)
+3/6/9/12/15% chance to impale your enemies.
+
+Spatial Awareness - (Ability1)
+Reverse your X and Y axis velocity. CD of 16/14/12/10/8s.
+
+Nightcrawler's Teleport - (Ultimate)
+**Must be airborne**
+Launch foward, 200u, becoming 100% invisible. Lose all weapons while airborne. Reduce fall damage by 50%.
+Set visibility to 100% and regain weapons upon landing. CD of 18/16/14/12/10s.
+
+--------------------------------------------------------------------------------------------
+
+Magneto - Marvel
+Weapon Restrictions: Five-Seven.
+Race Limit: 1 per team.
+
+Matter Manipulation - (Passive)
+5/10/15/20/25% chance to evade projectiles.
+
+Iron Manipulation - (Attack)
+4/8/12/16/20% chance to bash enemy for .5s .
+
+Electromagnetic Field - (Aura)
+2/4/6/8/10% reduced damage for yourself and allies within 300u.
+
+Magnetic Flight - (Ability1)
+Manipulate the matter around you, allowing for flight. Duration of 5s. CD of 10s.
+
+Metallic Curtain - (Ability2)
+Place a shield that absorbs all damage through. Duration 10s. CD of 30s.
+
+Meteor M - (Ultimate)
+Launch a Meteor full of metals at target, dealing 10/20/30/40/50 damage. Range 1,000u. Radius 300u. CD of 60s.
