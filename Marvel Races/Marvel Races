@@ -138,6 +138,10 @@ Spiderman - Marvel
 Weapon Restrictions:
 Race Limit: 1 per team.
 
+Web Sling - (Passive)
+*Must be holding Knife*
+Ability to web sling. CD of 2.5/2/1.5/1/.5s.
+
 Spidey Senses - (Passive)
 Sense enemies within 400u every 3/2.5/2/1.5/1s.
 5/10/15/20/25% chance to evade.
@@ -146,6 +150,7 @@ Agility - (Passive)
 Gain 15/20/25/30/35% movement speed.
 Gain 5/10/15/20/25% low-grav.
 Gain longjump.
+Extra: Reduce fall damage by 50%.
  
 Web Shooters - (Attack)
 3/6/9/12/15% chance to bash enemy and blind enemy for .5s.
