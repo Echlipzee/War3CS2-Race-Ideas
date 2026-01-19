@@ -12,16 +12,19 @@ Expert Marksman - (Passive)
 Headshots do an additional 2/4/6/8/10% damage.
 
 Shock Batons - (Attack) *LEFT CLICK ONLY*
-Knife deals an extra 5/10/15/20/25% damage and has the same chance to bash enemy for 1s.
+Knife deals an extra 3/6/9/12/15% damage and has the same chance to bash enemy for 1s.
 
 Widow's Bite - (Ability1)
-Grapple hook. Hook Force: 3.0 Cone Range: 300u. CD of 6 seconds.
+Grapple hook. CD of 6 seconds.
+(Similar to Jack Skellington)
 
 Sabotage - (Ability2)
 Swap teams for 10 seconds to gather intel, at end of duration switch back. CD of 30s.
+Extra: Death ends the swap. Cannot be used if last alive.
 
 Red Room Training - (Ultimate)
-Gain an AWP with 100% extra damage for 3/4/5/6/7 seconds. CD of 60s.
+Gain an AWP with 60% extra damage for 3/4/5/6/7 seconds. CD of 60s.
+Extra: Destroy the AWP at end of duration.
 
 ---------------------------------------------------------------------------------------------------
 
@@ -66,17 +69,17 @@ Gain 75/100/125/150/175/200HP.
 Regenerate 8/10/12/14/16/20HP every 4 seconds. Maximum HP regen is 400. Reset counter if at MaxHP.
 
 Incredible Leap - (Passive)
-Jumping from a surface, gain 50/60/70/80/90/100% lowgravity for 5s or until landing. CD of 5s.
+Jumping from a surface, gain 20/25/30/35/40% lowgravity for 5s or until landing. CD of 5s.
 
 Limitless Strength - (Attack)
-Melee damage deals 35/40/45/50/55/60% extra damage.
+Melee damage deals 10/15/20/25/30% extra damage.
 
 Gamma Radiation - (Aura)
-Teammates within 300u gain 5/10/15/20/25/30% extra damage.
+Teammates within 300u gain 3/6/9/12/15% extra damage.
 
 Thunderclap - (Ability1)
 Create violent tremors.
-Ward: Deals 5D/s. Radius 200u, Range 800u, Duration 10s.
+Target: AoE_Self Ward: Deals 5D/s. Radius 200u, Duration 10s. CD of 30s.
 
 The Mindscape - (Ultimate)
 Sense all enemies near you for 10s. CD of 30s.
@@ -94,16 +97,16 @@ Ancestral Sword - (Attack)
 Melee attacks deal an extra  2/4/6/8/10% damage.
 
 Hunter's Shotgun - (Attack)
-Fire explosive rounds, deal an extra 5/10/15/20/25% damage.
+Fire explosive rounds, deal an extra 3/6/9/12/15% damage.
 
 Blood Liberation - (Aura)
-Drain enemies HP to heal yourself. Radius 300u.
+Drain enemies HP to heal yourself. Radius 300u. 2HP/s.
 
 Daywalker Dash - (Ability1)
-Dash in direction of aim (horizontally only). Range of 800u. CD of 15s.
+Dash in direction of aim (horizontally only). Range of 400u. CD of 10s.
 
 New Moon - (Ultimate)
-Temporarily gain 60% invisibility, and regenerate 4HP/s for 10 seconds.
+Temporarily gain 60% invisibility, and regenerate 4HP/s for 10 seconds. CD of 30s.
 
 ---------------------------------------------------------------------------------------------------
 
@@ -191,7 +194,7 @@ Matter Manipulation - (Passive)
 5/10/15/20/25% chance to evade projectiles.
 
 Iron Manipulation - (Attack)
-4/8/12/16/20% chance to bash enemy for .5s .
+3/6/9/12/15% chance to bash enemy for .5s .
 
 Electromagnetic Field - (Aura)
 2/4/6/8/10% reduced damage for yourself and allies within 300u.
@@ -203,7 +206,7 @@ Metallic Curtain - (Ability2)
 Place a shield that absorbs all damage through. Duration 10s. CD of 30s.
 
 Meteor M - (Ultimate)
-Launch a Meteor full of metals at target, dealing 10/20/30/40/50 damage. Range 1,000u. Radius 300u. CD of 60s.
+Launch a Meteor full of metals at target, dealing 10/20/30/40/50 damage. Range 1,000u. Radius 200u. CD of 60s.
 
 --------------------------------------------------------------------------------------------
 
