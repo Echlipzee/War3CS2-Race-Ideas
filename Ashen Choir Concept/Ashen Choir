@@ -1,0 +1,35 @@
+The Ashen Choir - UNKNOWN CAT
+“Their hymns are not heard by the living alone. Even the dead stir when the Choir sings.”
+Weapon Limit: None.
+Race Limit: 2 per team.
+
+Dissonant Presence - (Aura)
+Enemies within 50/100/150/200/250u radius hear FAKE faint, irregular audio artifacts (whispers, footsteps, fall damage, door opens, etc.)
+
+Reflexive Echo - (Victim)
+When hit by a weapon, 5/10/15/20/25% chance to emit a false directional audio ping for attacker.
+
+Fracture Response - (Victim)
+4/8/12/16/20% chance when hit to bash enemies for .2s every 1s for 1/1.5/2/2.5/3s.
+
+Choir's Reward - (Attack)
+After a kill, nearby Choir Allies gain 4/8/12/16/20% movement speed after killing an enemy.
+Extra: This affects you aswell. This does not stack if near another Choir member.
+
+Lament Shot - (Attack)
+Apply a stack of "Lament", at 3 stacks victim experiences delayed feedback (Lag) for .5/1/1.5/2/2.5 sec.
+Also, 3/6/9/12/15% chance to impale and shake screen for 1s. (Duration doesn't apply to Imaple)
+
+Chorus of Static - (Ability1)
+Deploy an invisible zone for 1/2/3/4/5s. Enemies are not able to pass through during this time. (Highlight perimeter of effect, i.e. a doorway, vent, etc.)
+Type: Ward. Radius: 200u. Range: 800u. CD of 25s.
+
+Dirge of the Unseen - (Ability2)
+Stun yourself for 1/2/3/4/5s. After stun, enemies within 600u see ghost silhouettes where allies WERE moments ago for 2/4/6/8/10s. (Tsarenir decoy effect, mimic movement if possible) CD of 40s.
+Extra: Real allies are slightly obscured (30% invis) and enemies briefly lose team indicators.
+Type: Ward. Target: AoE_SELF.
+
+Black Requiem - (Ultimate)
+The battlefield goes quiet. ALL EFFECTS ARE MUTED FOR ALL PLAYERS within 100/200/300/400/500u for 10s. CD of 60s.
+Extra: At max, this does NOT effect CHOIR members. Also, replace audio with (noise Lucky prefers (low humming, screaming, etc.))
+Target: AoE_SELF. Type: Aura
