@@ -1,36 +1,38 @@
 Wraithsong - The Ashen Choir
 “Their hymns are not heard by the living alone. Even the dead stir when the Choir sings.”
 Weapon Limit: None.
-Race Limit: 2 per team.
+Race Limit: 1 per team.
 
 Choir's Reward - (Passive)
-Choir Allies gain 4/8/12/16/20% movement speed.
+Choir Allies gain 4/8/12/16/20% movement speed. Radius of 150/175/200/225/250.
 Extra: This affects you aswell. This does NOT stack.
 
 Reflexive Echo - (Victim)
-When hit by a weapon, 5/10/15/20/25% chance to emit a false directional audio ping for attacker.
+When hit by a weapon, 5/10/15/20/25% chance to emit a false audio artifact for attacker.
 
 Ashmark - (Attack)
 3/6/9/12/15% chance to mark (highlight) an enemy for 5s. If successful, banish them for 1s.
+The highlight is only for you.
 
 Lament Shot - (Attack)
-Apply a stack of "Lament", at 3 stacks victim experiences delayed feedback (Lag) every .5s for .5/1/1.5/2/2.5 sec.
+Consecutive strikes apply a stack of "Lament", at 3 stacks victim experiences delayed feedback (Lag) every .5s for .5/1/1.5/2/2.5 sec.
 Also, 3/6/9/12/15% chance to impale and shake screen for 1s. (Duration doesn't apply to Imaple)
+Extra: If you miss 1 bullet, stacks reset to 0. Mind your shots.
 
 Chorus of Static - (Ability1)
-Deploy an invisible zone for 1/2/3/4/5s. Enemies are not able to pass through during this time. (Highlight perimeter of effect, i.e. a doorway, vent, etc.)
-Type: Ward. Radius: 200u. Range: 800u. CD of 30s.
+Deploy an invisible zone for 1/2/3/4/5s. Enemies are not able to pass through during this time. (Highlight perimeter of effect, i.e. a doorway, vent, etc.) CD of 30s.
+Type: Ward. Radius: 200u. Range: 800u.
 
 Dissonant Presence - (Ability2)
-Enemies within 50/100/150/200/250u radius hear FAKE faint, irregular audio artifacts (whispers, footsteps, fall damage, door opens, etc.) every 3s for 9s. CD of 30s.
-Target: AoE_SELF. Type: Aura 
+Enemies within 400/450/500/550/600u radius hear FAKE faint, irregular audio artifacts (whispers, footsteps, fall damage, door opens, etc.) every 3s for 9s. CD of 30s.
+Target: AoE_SELF. Type: Aura
 
 Black Requiem - (Ultimate)
-The battlefield goes quiet. ALL EFFECTS are muted for ALL PLAYERS within 100/200/300/400/500u for 10s. CD of 60s.
-Extra: Also, replace audio with (noise Lucky prefers (Logickal moaning, Lucky's Golden Scream, etc.))
-Target: AoE_SELF. Type: Ward
+The battlefield goes quiet. ALL EFFECTS are muted for ALL PLAYERS within 100/200/300/400/500u for 10s. CD of 30s.
+Extra: Also, replace audio with noise Lucky prefers (Logickal moaning, Lucky's Golden Scream, etc.) Target: AoE_SELF.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
 Arcantria - The Ashen Choir
 "They move unseen, weaving each note into the very minds of their enemies, until hesitation becomes inevitability."
 Weapon Restriction: None.
@@ -62,3 +64,36 @@ Target: AoE_Self. Type: Ward. Duration: 10s.
 Eternal Rest - (Ultimate)
 Add 10s to all enemies CDs and silence them. Duration 6/7/8/9/10s. CD of 30s.
 Target: AoE_SELF. Radius: 500u.
+
+-------------------------------------------------------------------------------------------
+
+Lamentari - The Ashen Choir
+"They wail into the minds of those who oppose the Ashen Choir. Their song freezes the brave, turns allies against instinct, and leaves terror as the only answer.”
+Weapon Restrictions: None.
+Race Limit: 1 per team.
+
+Dissonant Hum - (Aura)
+Enemies near the Lamentari gradually slow. Increments of 5 to 90/80/70/60/50% reduction.
+Extra: 300u radius. Tick Rate: 1s. Slow is clamped to 30% movement speed.
+
+Shrieking Chord - (Attack)
+3/6/9/12/15% chance to apply "Fear" stacks. At 4 stacks, turn (180) and slow enemy by 20% for 2s.
+Extra: Stacks fall off after 10s.
+
+Quivering Cadence - (Attack)
+10/15/20/25/30% chance to leech 50% weapon damage from target.
+
+Inverted Echo - (Victim)
+5/10/15/20/25% chance to invert (turn 180) attackers camera when hit.
+
+Reverberant Dirge - (Kill)
+Each kill by the Lamentari spreads a short-lived DoT to enemies within 100/125/150/175/200u.
+Extra: Duration 5s. Damage: 1/1/1/2/2.
+
+Veil of Discord - (Ability1)
+Enemies within the veil experience minor, constant disorientation (Randomized bash, blind, turn, banish, etc.) and receive 4/8/12/16/20% increased magic damage. CD of 30s.
+Extra: Target AoE_SELF. Radius: 300u. Tick Rate: 1s. Duration of effect: .5s Duration of Ward: 5s.
+
+Crescendo of Terror - (Ultimate)
+Enemies hit are briefly frozen (bashed) and close their eyes (blinded) in fear. CD of 30s.
+Extra: Target: AoE_SELF. Radius: 400u. Duration: 2s.
