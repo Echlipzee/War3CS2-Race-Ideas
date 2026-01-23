@@ -1,0 +1,119 @@
+Monkey D. Luffy - One Piece
+Weapon Restrictions: None.
+Race Limit: 1 per team.
+
+Rubber Body - (Passive)
+10/20/30/40/50% chance to evade projectile damage.
+
+Conqueror's Pressure - (Aura)
+Enemies within 300u are:
+Slowed by 3/6/9/12/15%
+Deal 4/8/12/16/20% less damage to Straw Hat Pirates.
+
+Gum-Gum Axe - (Special/Attack)
+Deal increased *KNIFE* damage based on velocity. CD of 10s upon successful proc.
+Units per second:
+250-284ups 1/2/3/4/5% increase
+285-300ups 5/6/7/8/9% increase
+300+ups    10/11/12/13/14% increase
+
+Meat on the Bone - (Ability1)
+Recover 5/10/15/20/25HP and set movement speed back to 100%. CD of 20s.
+
+Gear Second - (Ability2)
+Temporarily gain 30% movement speed and 30% lowgrav. Duration of 3/4/5/6/7s. CD of 30s.
+*Extra: After Ability2 ends, slow to 80% movement speed for 10s.*
+
+Gear Fourth: Boundman - (Ultimate)
+Temporarily gain 50HP, 20% extra damage and 20% lowgrav. Duration of 6/7/8/9/10s.
+CD of 45s.
+*Extra: After Ultimate ends, slow to 60% movement speed for 10s.*
+
+---------------------------------------------------------------------------------------------
+
+Roronoa Zoro - One Piece
+Weapon Restriction: Knife.
+Race Limit: 1 per team.
+
+Iron Resolve - (Passive/Victim)
+Convert damage taken to damage dealt.
+Increase by 3/6/9/12/15% every 20HP lost.
+
+Killing Intent - (Aura)
+Enemies within 300u suffer reduced attack speeds and spell casting.
+Attack Speed: 4/8/12/16/20% reduction.
+Spell Cast: .5/1/1.5/2/2.5s delay.
+
+Santoryu: Tatsumaki - (Attack)
+(Primary/LClick) Every successful attack, apply a bleed stack to an enemy. This stacks 3 times.
+Bleed: 1/1/2/2/3dps. Bleed Duration: 1/2/3/4/5s.
+
+Santoryu: Sanzen Sekai - (Attack)
+(Secondary/RClick) Deliver a single, devastating strike dealing 10/15/20/25/30% extra damage. If the target survives, slow by 20% and apply 1 bleed stack.
+*Extra: This ignores a portion of armor*
+
+Way of the Blade - (Ability1)
+Briefly enter a parry stance. 10/15/20/25/30% chance to evade damage. This lasts 10s. CD of 30s.
+
+Asura - (Ultimate)
+Briefly increase speed and leech. CD of 30s.
+Speed: 10/15/20/25/30% movement speed increase.
+Leech: 25/30/35/40/50% of weapon damage. This has a 80% chance.
+*Extra: During this time, Zoro cannot be affected by movement effects.*
+
+---------------------------------------------------------------------------------------------
+
+Nami - One Piece
+Weapon Restriction: P250.
+Race Limit: 1 per team.
+Extra: All damage is magic.
+
+Calm before the Storm - (Passive)
+Gain 2/4/6/8/10% magic damage if out of combat for >5s.
+
+Tempest's Favor - (Aura)
+Enemies within range have reduced vision (50% blind/darken).
+Radius: 300u.
+
+Electrified - (Victim)
+3/6/9/12/15% chance to bash attacker for 1s.
+
+Thunderbolt Staff - (Attack)
+Ranged attack that chains to nearby enemies for reduced damage.
+Radius: 100u. Reduction: 50%.
+
+Torrential Surge - (Ability1)
+100% chance to impale enemies and deal 4/8/12/16/20 damage within radius. CD of 30s.
+Type: Ward. Radius: 400u. Range: 500u. Duration: 10s.
+
+Cataclysm: Thunder & Tide - (Ultimate)
+100% chance to slow enemies (10%) and deal 5/10/15/20/25 damage within radius. CD of 45s.
+Type: Ward. Radius: 200u. Range: 500u. Duration: 5s.
+
+---------------------------------------------------------------------------------------------
+
+Usopp - One Piece
+Weapon Restriction: AWP.
+Race Limit: 1 per team.
+
+Courage Under Fire - (Passive)
+When below 50HP, gain 3/6/9/12/15% evasion chance and 5/10/15/20/25% movement speed.
+
+Kabuto Shot - (Attack)
+Increased damage the longer scoped. Up to 5 stacks/charges.
++1/2/3/4/5% weapon damage per stack/charge.
+*Extra: Tick rate 1s.*
+
+Blind Panic - (Victim)
+5/10/15/20/25% chance to blind attacker for .5s
+
+Sogeking Shot - (Ability1)
+Fire a projectile that does 5/10/15/20/25% weapon damage. CD of 10s.
+
+Trap Deployment - (Ability2)
+Place a ward, activated when an enemy walks over it. Highlight enemies (Self) for duration of ward. CD of 20s.
+*Target: AoE_SELF. Type: Ward. Radius: 100u. Duration: 10s.*
+
+Firebird Star - (Ultimate)
+Launch a flaming projectile over an area (Molotov) and burn enemies for 5 over duration.
+*Type: Ward. Radius: 150u. Duration 7s.*
