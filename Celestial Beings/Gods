@@ -1,0 +1,209 @@
+Zeus - Gods
+Weapon Restriction:
+Race Limit: 1 per team.
+
+King of Olympus - (Passive)
+Gain 10/15/20/25/30 HP/A.
+
+Storm Presence - (Aura)
+Enemies within 200u have a 5/10/15/20/25% chance to be dealt 5 damage and bashed for .5s.
+*Extra: Tick rate 3s*
+
+Thunderstrike - (Attack)
+4/8/12/16/20% chance to call down a lightning bolt on an enemy, dealing 5 damage.
+*Extra: This has a 10% chance to disarm*
+
+Divine Retaliation - (Victim)
+When you take damage, 10/15/20/25/30% chance to return 50% weapon damage as magic.
+
+Thunder's Descent - (Ability1)
+Teleport, upon landing deal 5 damage to enemies within 100u. CD 15s.
+*Extra: Range of 1-500u.*
+
+Lightning Spear - (Ability2)
+Hurl a massive bolt forward, enemies hit are dealt 4/8/12/16/20 damage and bashed for 1s.
+CD 20s.
+
+Ascension of the Thunder King - (Ultimate)
+Become empowered for a short duration. This lasts 6/7/8/9/10s. CD 30s.
+Attacks have a 50% chance to chain to others within 100u, damage reduced by 50%.
+Gain 50% immunity to slows, bashes and stuns for duration.
+
+--------------------------------------------------------------------------------------------
+
+Poseidon - Gods
+Weapon Restriction:
+Race Limit: 1 per team.
+
+Lord of the Seas - (Passive)
+Regenerate 5HP every 9/8/7/6/5s.
+
+Ocean's Might - (Aura)
+Nearby allies gain 4/8/12/16/20% movement speed and 2/4/6/8/10% magic resistance.
+Enemies are slowed by 4/8/12/16/20%.
+*Extra: Radius of 200u.*
+
+Tidal Surge - (Attack)
+3/6/9/12/15% chance to impale enemies.
+
+Tidal Resilience - (Victim)
+When damaged by melee, reduce damage by 10/15/20/25/30% and impale them.
+
+Currents of the Deep - (Ability1)
+Teleport, upon landing briefly bash enemies within 200u for .5s. CD 15s.
+*Extra: Range of 1-500u.
+
+Leviathan's Command - (Ability2)
+Summon a sea serpent to attack (Dave's pea shooters) dealing 2/4/6/8/10. CD 20s.
+*Extra: Leviathan has 50HP.*
+
+Wrath of the Deep - (Ultimate)
+Gain a grenade; Generate a large whirlpool dealing damage to enemies inside.
+Magnitude 100/110/120/130/140/150%. Duration: 5/6/7/8/9s. CD 30s.
+*Extra: Damage 3HP/s. Tick Rate: 1s. Radius 500u. Force: 600u.
+
+-------------------------------------------------------------------------------------------
+
+Hades - Gods
+Weapon Restriction:
+Race Limit: 1 per team.
+
+Lord of the Dead - (Passive)
+For each enemy/ally death, regenerate 1/2/3/4/5 HP/A.
+*Extra: Does not exceed 100HP.*
+
+Death's Veil - (Aura)
+Leech 10% of enemy HP within range.
+*Extra: Radius 200u. Does NOT exceed 100HP*
+
+Reap Souls - (Attack)
+4/8/12/16/20% chance to DoT enemy for 2HP/s. Duration of DoT: 5s. This stacks 3 times.
+
+Infernal Retaliation - (Victim)
+When damaged, 3/6/9/12/15% chance to burn victim for 10HP.
+
+Legion of the Damned - (Death)
+Summon 1/1/2/2/3 allies as "Shades" for 30s. Respawn if they (at least 1) survive.
+Chance: 50/60/70/80/90%.
+
+Shadow Passage - (Ability1)
+Teleport, upon landing deal 5 damage to enemies within 100u. CD 15s.
+*Extra: Range of 1-500u.
+
+Reign of the Underworld - (Ultimate)
+Enemies within are slowed and DoT over 10s, and decrease vision by 25%. CD 30s.
+*Extras. Target: AoE_SELF. Radius: 300u. DoT: 5HP/s. Tick Rate: 1s.
+===========================================================================
+Shades - Summon
+Weapon Restriction: Knife.
+Race Limit: Summon.
+Special: Only 50HP/A.
+
+Wraith Step - (Passive)
+15/20/25/30/35% chance to evade damage.
+
+Fade Into Shadows - (Passive)
+When outside of combat for 3s, gain 50% invisibility.
+
+Curse Amplifier - (Aura)
+When nearby multiple shades, enemies take 3/6/9/12/15% extra damage.
+*Extra: Radius 200u.*
+
+Shadow Surge - (Victim)
+When damaged, temporarily gain 10/20/40/60/80% invisibility and 5/10/15/20/25% movement speed for 4 seconds.
+
+---------------------------------------------------------------------------------------
+
+Apollo - Gods
+Weapon Restriction:
+Race Limit: 1 per team.
+
+Solar Grace - (Passive)
+You receive 4/8/12/16/20% reduced damage.
+
+Blinding Radiance - (Aura)
+Heal your allies within range for 1/2/3/4/5 HP/A every 3s.
+
+Sunshot - (Attack)
+4/8/12/16/20% chance to blind enemy for 1s.
+
+Solar Retaliation - (Victim)
+3/6/9/12/15% chance when you take damage to reduce it the same and blind enemy for 1s.
+
+Solar Step - (Ability1)
+Teleport, upon landing deal 5 damage to enemies within 100u. CD 15s.
+*Extra: Range of 1-500u.*
+
+Lyre's Melody - (Ability2)
+Stun yourself for 3s. At end, instantly heal all allies for 6/12/18/24/30 HP/A. CD 30s.
+
+Solar Judgement - (Ultimate)
+Fire a piercing arrow across the map, dealing 5/10/15/20/25 to enemies hit. CD 30s.
+*Extra: Map-wide, optionally (balance team) pierce through walls*
+
+------------------------------------------------------------------------------------------
+
+Artemis - Gods
+Weapon Restriction: Scout
+Race Limit: 1 per team.
+
+Predator's Grace - (Passive)
+Gain 5/10/15/20/25% movement speed.
+
+Predator's Mark - (Aura)
+Enemies within range are marked and receive 4/8/12/16/20% extra damage.
+*Extra: Radius: 150u.*
+
+Silent Stalk - (Attack)
+Enemies that are marked/highlighted receive an additional 6/7/8/9/10% extra damage.
+
+Moonlit Veil - (Victim)
+On hit, gain 15/25/35/45/50% invisibility for 5s.
+
+Silent Step - (Ability1)
+Teleport, upon landing deal 5 damage to enemies within 100u. CD 15s.
+*Extra: Range of 1-500u.*
+
+Lunar Call - (Ability2)
+Summon 2 allies as animals (Wolf). CD 30s.
+
+Celestial Hunt - (Ultimate)
+Aura: Highlight (for your team) enemies within radius for 10s. CD 30s.
+*Extra: Type: AoE_SELF. Radius: 300u.
+
+------------------------------------------------------------------------------------------
+
+Ares - Gods
+Weapon Restriction: Knife
+Race Limit: 1 per team.
+
+Warlord's Might - (Passive)
+Gain 10/15/20/25/30 HP/A.
+
+Bloodthirst - (Passive)
+Leech 10/20/30/40/50% of weapon damage.
+
+Bloodlust - (Aura)
+Allies within range gain 4/8/12/16/20% movement speed.
+*Extra: Radius 150u*
+
+Spear of War/Axe of Discord - (Attack)
+(Primary/LClick) Thrust spear in a line, dealing 5/10/15/20/25 weapon damage and impaling for .5s.
+*Extra: Range of 200u.*
+(Secondary/RClick) Slash in an arc in-front of you, enemies hit are slowed by 20% for 3s. RClick speed slowed by 20%.
+*Extra: Radius of 50u*
+
+Retaliatory Strike - (Victim)
+When damaged and fall under 20HP, stun enemies within 100u for 1s and gain 4/8/12/16/20% movement speed.
+
+Warpath - (Ability1)
+Teleport/Leap, upon landing deal 10 damage to enemies within 100u. CD 15s.
+*Extra: Range of 1-500u.*
+
+Call to Arms - (Ability2)
+Allies within 300u receive 3/6/9/12/15% extra damage for 10s. CD 30s.
+*Extra: Type: Aura. Target: AoE_SELF.
+
+Champion of Carnage - (Ultimate)
+Gain 10/20/30/40/50 HP/A, 4/8/12/16/20% attack speed and damage reduction for 5s. CD 30s.
+*Extra: Increase size by 15% during duration, reset at end.*
