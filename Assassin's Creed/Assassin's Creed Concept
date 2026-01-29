@@ -1,0 +1,29 @@
+Ezio Auditore - AC (32 Levels)
+Weapon Restrictions: Knife.
+Item Restrictions: Sock of Feathers
+Race Limit:
+
+Armor of Altaïr - (Passive)
+Gain an additional 40/80/120/160/200 Armor.
+
+Leap of Faith - (Passive)
+Reduce fall damage by 10/20/30/40/50%.
+
+Veil of the Brotherhood - (Passive)
+Gain 10/20/30/40/50% invisibility. Passive silent steps.
+
+Hidden Blade - (Attack)
+Deal an additional 20/25/30/35/40% damage on INITIAL backstab.
+
+Riposte Instinct - (Victim) - (1 Level)
+33% chance to return 40% weapon damage.
+
+Smoke Screen - (Victim)
+6/12/18/24/33% chance to drop smoke at your feet when hit.
+
+Shadowbound Agility - (Ability1) - (1 Level)
+Push to where you aim. Range of 400u. CD of 2s.
+
+Eagle Sense - (Ultimate)
+Sense enemies around you. Prioritize those under 50HP. CD of 30s.
+Target: AoE_SELF. Duration: 2/4/6/8/10s. Radius: 300u.
