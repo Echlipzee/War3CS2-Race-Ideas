@@ -1,0 +1,27 @@
+Echlipse - Player Race
+Weapon Restrictions: AK and Zeus. <-- Zeus for mobility, anti-knife race shouldn't have one lol
+Item Restrictions: Healing Items. (Shop Category)
+Race Limit:
+
+Predator's Instinct - (Passive)
+Gain 12/24/36/48/60% skill immunity.
+
+Prey - (Aura)
+Self highlight knife races within range.
+Target: AoE_SELF. Radius: 200/250/300/350/400u.
+
+Blood Scent - (Attack)
+Enemies you damage below 50% HP are marked for 1/2/3/4/5s.
+
+Trophy Hunter - (Kill)
+Upon killing a knife race, restore 4/8/12/16/20HP.
+Extra: 40% chance to block respawns/summons on the person.
+
+Unbound - (Ability1)
+Cleanse yourself. Gain 100% Skill Immunity for 2s.
+Target: Self. CD of 20s.
+
+No Escape - (Ultimate) <---- Should be a smaller and longer CD NElf root.
+Bash enemies around you (Root).
+Duration: 1/1.5/2/2.5/3s. Radius: 200/250/300/400/500
+Target: AoE_SELF. CD of 25s.
