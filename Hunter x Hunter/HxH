@@ -1,0 +1,191 @@
+Gon Freecss - HxH
+Weapon Restrictions:
+Race Limit:
+Item Restrictions:
+
+Fishing Pole - (Special) - (1)
+Hook shot. CD of 4s.
+Extra. Hook Range: 750, Hook Disable: 1.0 sec.
+
+Simple Resolve - (Passive)
+While moving forward (W key), regenerate 2/4/6/8/10HP/A every 2s.
+
+Jajanken - (Attack)
+On hit, randomize and gain one of the following effects (Rock, Paper or Scissors).
+Rock:
+2/4/6/8/10% chance to deal an extra 100 damage.
+Paper:
+3/6/9/12/15% chance to impale enemy.
+Scissors:
+4/8/12/16/20% chance to deal magic damage.
+
+Rising Temper - (Victim)
+Gain 1/2/3/4/5% damage reduction per hit from the same enemy. This stacks up to 10 times.
+Extra: Stacks reset after 5s. (50% reduction max.)
+
+Unwavering Focus - (Ability1)
+Immune to slows and disarms. Increase movement speed by 6/12/18/24/30%. CD of 20s.
+Duration of 5s.
+
+Limitation Transformation - (Ultimate)
+Use all of your Nen. Duration of 10s.
+You gain:
+20/40/60/80/100 HP/A.
+6/12/18/24/30% movement speed
+4/8/12/16/20% damage reduction. (Max 50% damage reduction from Rising Temper.)
+Extra: Size is increased by +40%. At end of duration, you die and cannot be respawned/summoned.
+
+------------------------------------------------------------------------------------------------
+
+Killua Zoldyck - HxH
+Weapon Restrictions:
+Race Limit:
+Item Restrictions:
+
+Zoldyck Assassin - (Special)
+You have silent steps, +10% movement speed and lowgrav.
+Extra: You cannot be highlighted/sensed.
+
+Rhythm Echo - (Passive)
+33% chance every 5s to deploy a decoy of yourself that lasts 4s.
+
+Electric Nervous System - (Aura)
+Deal 2 damage and 3/6/9/12/15% chance to stun enemies for 1s. Radius: 200u.
+Extra. Tick Rate: 5s.
+
+Thunderbolt - (Attack)
+4/8/12/16/20% chance to electrocute (Bash) victim for .8s.
+
+Claws - (Attack)
+Deal an additional 5/10/15/20/25 damage on knife hits from behind.
+Extra: This is a knife skill.
+
+Whirlwind - (Victim)
+3/6/9/12/15% chance to evade and deal the weapon damage back to attacker.
+
+Godspeed - (Ultimate)
+Gain an additional 5/10/15/20/25% movement speed and the same as lowgrav. Duration: 10s. CD of 25s.
+
+------------------------------------------------------------------------------------------------------
+
+Meruem - HxH
+Weapon Restrictions:
+Race Limit:
+Item Restrictions:
+
+Empathetic Bond - (Special)
+Enemies that you kill deal 20% less damage to you next round.
+
+King of the Ants - (Passive)
+Gain 4/8/12/16/20 HP/A.
+
+Royal Guard Command - (Aura)
+Allies gain 4/8/12/16/20% damage reduction. This does NOT affect you.
+Extra. Target: AoE_SELF. Radius: 200u.
+
+Tail Strike - (Attack)
+3/6/9/12/15% chance to impale enemy and deal 3/6/9/12/15 extra damage.
+Extra: This is a knife skill.
+
+Evolution through Consumption - (Kill)
+Regenerate 1/2/3/4/5 HP/A every 1s for 5s per kill. This effect can stack.
+
+Rage Blast - (Ability1)
+Fire an explosive blast dealing 5/10/15/20/25 damage. CD of 20s.
+Extra. Range: 1,500u. Cone: 8. Radius: 200u.
+
+Metamorphosis - (Ability2)
+Toggle Flight. CD of 10/8/6/4/2s.
+
+Photon - (Ultimate)
+Releases photons into the air. Channel to Track Enemies, Press Again while aiming at a tracked enemy to teleport behind them. Radius: 650/800/950/1100/1250. CD of 30s.
+Extra. Target: AoE_SELF. Duration: 3s. Cone: 4s.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Kurapika - HxH
+Weapon Restrictions:
+Race Limit:
+Item Restrictions:
+
+Scarlet Eyes - (Special)
+20% chance when damaged to gain 100% Skill and Spell Immunity for 3s.
+
+Holy Chain - (Passive)
+Heal an ally for 20HP. CD of 10s.
+Extra: RClick Only. This is a knife effect.
+
+Dowsing Chain - (Attack)
+4/8/12/16/20% chance to reveal enemy for 5s.
+
+Reactive Binding - (Victim)
+4/8/12/16/20% chance to slow your attacker by 20% for 3s. Does NOT stack.
+
+Chain Jail - (Ability1)
+Bash and silence your enemy for 1s. CD of 20s.
+Extra. Target: Target_Enemy. Range: 600u. Cone: 8u.
+
+Judgement Chain - (Ability2)
+Apply a DoT to your enemy dealing 4 HP/s for 5s. If the enemy tries to use a spell, deal 20 damage (procs once). CD of 20s.
+Extra. Target: Target_Enemy. Range: 600u. Cone: 8u.
+
+Steal Chain - (Ability3)
+At round start, choose a spell that you've previously stolen. (Pre-set abilities, included examples).
+1: Flight.
+2: Summon.
+3: Mole.
+4: Cleanse.
+5: Heal.
+Extra: You may use this only for that round. Duration/CD dependent upon selected spell.
+
+Emperor Time - (Ultimate)
+Toggle. Your skills effects are increased by 100%. CD of 30s.
+Extra: Upon trigger and every 3s this is active, you lose 10HP. This also triggers Scarlet Eyes for duration.
+
+---------------------------------------------------------------------------------------------------------------------
+
+Weapon Restrictions:
+Race Limit:
+Item Restrictions:
+
+Troupe Leader - (Special)
+Enemies that kill you are granted your bounty. Your bounty is increased by kills without dying.
+Extra: This would either be $ or XP.
+
+Mastermind - (Aura)
+Allies around you gain 2/4/6/8/10s CD reduction.
+Extra. Radius: 200u.
+
+Silent Setup - (Attack)
+4/8/12/16/20% chance to self highlight an enemy for 5s.
+
+Ben's Knife - (Attack)
+Apply a DoT that deals 2/s over 2/4/6/8/10s. At the end of the duration, stun enemy for 1s.
+Extra: This is a knife skill.
+
+Counter-Preparation - (Victim)
+4/8/12/16/20% chance to evade.
+
+Indoor Fish - (Ability1)
+Ward. Deal 5 damage every second. Duration: 2/4/6/8/10s. CD of 20s.
+Extra. This will NOT kill. Radius: 300u.
+
+Bookmark Theme - (Ability2)
+At round start, choose a skill that you've previously stolen. (Pre-set abilities, included examples).
+1: Flight. (Multiple Races)
+2: Summon. (Civil Protector)
+3: Mole. (Sabo)
+4: Cleanse. (Awful Aim)
+5: Heal. (Ret Pally)
+Extra: You may use this only for that round. Duration/CD dependent upon selected spell.
+
+Bandit's Secret - (Ultimate)
+At round start, choose a skill that you've previously stolen. (Pre-set ultimate, included examples).
+1: Teleport. (Human Alliance)
+2: Burrow. (Antlion)
+3: Winter's Fury. (Frosty)
+4: Haunt. (Spectre)
+5: Slow Pause (Agent Smith)
+Extra: You may use this only for that round. Duration/CD dependent upon selected spell. 
+
+-----------------------------------------------------------------------------------------------------------
