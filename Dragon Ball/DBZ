@@ -1,0 +1,77 @@
+Goku - DBZ
+Weapon Restriction: None.
+Race Limit: 1 per team.
+Item Restriction:
+
+Zenkai Boost - (Passive)
+Every round Goku survives while under 25HP, he gains 2/4/6/8/10 additional HP/A. This can stack up to 4 times.
+
+Saiyan Resilience - (Victim)
+When Goku would be dealt fatal damage, instead survive with 1/2/3/4/5 HP/A and become invincible for 1s. CD of 10s.
+
+Dragon Fist - (Attack)
+Knife attacks deal an additional 5/10/15/20/25 damage.
+
+Kamehameha - (Ability1)
+Fire an explosive blast dealing 5/10/15/20/25 damage. CD of 20s.
+Extra. Range: 1,500u. Cone: 8. Radius: 200u.
+
+Instant Transmission - (Ability2)
+Leave a decoy for .5s and teleport. *Only horizontally* Range of 400u. CD of 15s.
+
+Ultra Instinct - (Ultimate)
+Remove accuracy penalty, 5/10/15/20/25% chance to evade and increased movement speed for 10s. CD of 45s.
+
+-------------------------------------------------------------------------------------------
+
+Vegeta - DBZ
+Weapon Restriction: None.
+Race Limit: 1 per team.
+Item Restriction:
+
+Royal Zenkai - (Passive)
+Every round Vegeta survives while under 25HP, he gains 2/4/6/8/10 additional HP/A. This can stack up to 4 times.
+
+Pride of the Prince - (Passive)
+The enemy who previously killed you becomes your rival. You deal an additional 4/8/12/16/20% damage to them, and receive 4/8/12/16/20% less from them.
+
+Refusal to Kneel - (Victim)
+6/12/18/24/30% chance to ignore movement impairing effects. If successful, instead gain 5/10/15/20/25% movement speed for 2s.
+
+Galick Break - (Ability1)
+Fire an explosive blast dealing 5/10/15/20/25 damage. CD of 20s.
+Extra. Range: 1,500u. Cone: 8. Radius: 200u.
+
+Lucora Gun - (Ability2)
+Your gun now deals 2/4/6/8/10 as magic damage for 5s. CD of 20s.
+
+Ultra Ego - (Ultimate)
+Remove accuracy penalty, gain 10/20/30/40/50 HP/A and take 5/10/15/20/25% reduced damage for 10s. CD of 45s.
+
+-------------------------------------------------------------------------------------------
+
+Piccolo - DBZ
+Weapon Restriction: None.
+Race Limit: 1 per team.
+Item Restriction:
+
+Demon Clan Heritage - (Passive)
+Regenerate 2/4/6/8/10 HP/A every 2s while out of combat for 5s.
+Extra: Stop regen when shooting, knifing, or taking damage.
+
+Namekian Precision - (Attack)
+4/8/12/16/20% chance to slow enemies by 10% for 2s.
+
+Namekian Reflex - (Victim)
+4/8/12/16/20% chance to evade damage.
+
+Special Beam Cannon - (Ability1)
+Fire an explosive blast dealing 5/10/15/20/25 damage. CD of 20s.
+Extra. Range: 1,500u. Cone: 8. Radius: 200u.
+
+Hyper Explosive Demon Wave - (Ability2)
+An explosive wave that deals 10/15/20/25/30 damage to all enemies within range. Duration 3s. CD of 30s.
+Extra. Target: AoE_SELF. Radius: 400u.
+
+Namekian Overdrive - (Ultimate)
+Remove accuracy penalty, gain 5/10/15/20/25% extra damage and boost regeneration by 100% for 10s. CD of 45s.
